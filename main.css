@@ -551,7 +551,7 @@ body.active .overlay,
     background-color: transparent;
 }
 .second-card .card-wrapper .card-container .card-dtl {
-    background-image: url('../images/background.png');
+    background-image: url('../background.png');
     padding: 8vw 5vw 12vw;
     background-repeat: no-repeat;
     background-size: 100% 100%;
