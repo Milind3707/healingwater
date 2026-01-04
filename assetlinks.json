@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ultra.game.booster.gamemode",
+    "sha256_cert_fingerprints":
+    ["00:62:27:98:E7:6A:52:38:B7:C9:A1:30:BC:3F:F0:8B:A4:C2:69:DF:11:02:64:C9:74:38:5C:32:D2:4D:91:A9"]
+  }
+}]
